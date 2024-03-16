@@ -16,7 +16,7 @@ Our quaterly event is inclusive to all.
 
 We made our prototype using Figma for the Frontend.
 
-Python and MySQL for the backend and databases.
+We made our Entity Relationship Diagram (ERD) using Lucidchart.
 
 P.S. Additionally, we use APIs to implement payments and ai functionalities.
 
