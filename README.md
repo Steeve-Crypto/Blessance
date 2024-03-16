@@ -10,7 +10,7 @@ Our monthly event is exclusive to VIP consumers who pays a $75 fee to have reser
 
 Our quaterly event is inclusive to all and excess is donated to local food banks.
 
-Our revenue comes from sponsors, customers, and chefs fees.
+Our revenue comes from a subscription base model from customers, and chefs.
 
 # Technology
 
