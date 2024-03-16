@@ -11,3 +11,9 @@ Through the support of sponsors and consumers, Blessance is able to provide luxu
 Our monthly event is exclusive to VIP consumers who pays a $75 fee to have reservation to the event. After signing up, an AI will match off the profile inputs: Dietary restrictions, preferences, ... Access is secure through a qr code.
 
 Our quaterly event is inclusive to all.
+
+# Technology
+
+We made our prototype using Figma for the Frontend.
+
+Python and MySQL for the backend and databases.
