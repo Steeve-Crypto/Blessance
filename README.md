@@ -23,3 +23,7 @@ Additionally, we use APIs to implement payments and ai functionalities.
 Stripes is our payment gateway. Stripes api allows for payments.
 
 Also we use google cloud AI recommendation Api to match customers and chefs, base off data collected.
+
+# Final prototype
+
+https://www.figma.com/proto/yYf5OVvdn7voY60hZx6csO/Untitled?page-id=0%3A1&type=design&node-id=1-3&viewport=450%2C116%2C0.13&t=sj0MCc14eObxdbwz-1&scaling=scale-down&starting-point-node-id=1%3A3&mode=design
