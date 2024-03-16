@@ -18,6 +18,10 @@ We made our prototype using Figma for the Frontend.
 
 We made our Entity Relationship Diagram (ERD) using Lucidchart.
 
-P.S. Additionally, we use APIs to implement payments and ai functionalities.
+# APIs
 
+Additionally, we use APIs to implement payments and ai functionalities.
 
+Stripes is our payment gateway. Stripes api allows for payments.
+
+Also we use google cloud AI recommendation Api to match customers and chefs, base off data collected.
